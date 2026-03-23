@@ -17,8 +17,8 @@ I'm a self-taught freelancer from China
 
 #### Top Repositories
 <a href="https://github.com/diamond-cz/hiviewer_releases">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diamond-cz&repo=diamond-cz&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diamond-cz&repo=hiviewer_releases&theme=buefy" />
 </a>
 <a href="https://github.com/diamond-cz/hishot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diamond-cz&repo=diamond-cz.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diamond-cz&repo=hishot" />
 </a>
