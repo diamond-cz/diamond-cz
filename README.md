@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm diamond-cz</h1>
-<h3 align="center">A self-taught freelancer from China</h3> 
+<h3 align="center">A Camera tuning engineer, hividewr's author</h3> 
 
-
+1
 **About me**
 
 - 📈 专注于学习 Python、C、C++、shell、C#等
