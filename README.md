@@ -1,40 +1,37 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=欢迎来到我的GitHub个人主页！;我是diamond_cz+-+一名热爱编程的开发者" />
-</div>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<br/>
+<br />
 
-<!-- <img align="right" alt="编程动图" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/> -->
+I'm a self-taught freelancer from China
 
-### 👨‍💻 关于我
+**About me**
 
-- 🎯 技术：专注于学习 Python、C、C++、shell、C#等
-- 🎯 追求：探索发现新的技术栈
-- 🎯 目标：贡献更多兼具实用性和趣味性的开源项目
+- 📈 专注于学习 Python、C、C++、shell、C#等
 
-<br/>
+- ❤️ 探索发现新的技术栈
 
-### 📊 GitHub 统计
+- 💬 贡献更多兼具实用性和趣味性的开源项目
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diamond-cz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diamond-cz&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<br/>
+#### Top Repositories
 
-<!-- ### 📈 活动图表 -->
+<a href="https://github.com/diamond-cz/hiviewer_releases">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=diamond-cz&theme=tokyo-night&area=true&hide_border=true" width="100%"/> -->
 
-### 💭 座右铭
+<br />
+<br />
 
-<div align="center">
-  <i>「少年听雨歌楼上，红烛昏罗帐。」</i>
-</div>
 
-<!-- 感谢访问，颜色中国色取值（碧清：#5cb3cc）：http://zhongguose.com/ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=100&section=footer&text=&fontSize=24&fontAlignY=80" width="100%"/>
-</div>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
