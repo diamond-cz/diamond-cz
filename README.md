@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm diamond-cz</h1>
-<h3 align="center">A camera tuning engineer, hividewr_release's author</h3> 
-
+<!-- <h3 align="center">A camera tuning engineer, hividewr_release's author</h3>  -->
 
 **About me**
 
