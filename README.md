@@ -12,12 +12,12 @@ I'm a self-taught freelancer from China
 
 - 💬 贡献更多兼具实用性和趣味性的开源项目
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=diamond-cz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diamond-cz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=diamond-cz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="diamond-cz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diamond-cz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 <a href="https://github.com/diamond-cz/hiviewer_releases">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diamond-cz&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diamond-cz&repo=diamond-cz&theme=buefy" />
 </a>
 <a href="https://github.com/diamond-cz/hishot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diamond-cz&repo=diamond-cz.github.io&theme=buefy" />
