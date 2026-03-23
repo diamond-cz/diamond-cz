@@ -1,8 +1,6 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/yan1-readme-header.jpg" /></a></p>
+<h1 align="center">Hi 👋, I'm diamond-cz</h1>
+<h3 align="center">A self-taught freelancer from China</h3> 
 
-<br />
-
-I'm a self-taught freelancer from China
 
 **About me**
 
@@ -16,10 +14,10 @@ I'm a self-taught freelancer from China
 | ------------- | ------------- |
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=diamond-cz" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diamond-cz&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 #### Top Repositories
@@ -30,4 +28,7 @@ I'm a self-taught freelancer from China
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diamond-cz&repo=hishot" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=diamond-cz&color=dc143c)s
+| <a href="https://github.com/diamond-cz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diamond-cz&langs_count=8&show_icons=true&theme=gruvbox&locale=en&layout=compact&hide=jupyter%20notebook" alt="diamond-cz" /></a> | <a href="https://github.com/diamond-cz"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=diamond-cz&show_icons=true&theme=gruvbox&locale=en" alt="Boris-code" /></a> |
+| ------------- | ------------- |
+
+![](https://raw.githubusercontent.com/diamond-cz/diamond-cz/output/github-contribution-grid-snake.svg) 
