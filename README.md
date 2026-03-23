@@ -3,11 +3,11 @@
 
 **About me**
 
-- 👀 专注于学习Python、C/C++等语言
+- 👀 致力于学习 Python、C/C++ 等语言
 
-- ❤️ 探索发现更多的实用项目
+- ❤️ 探索并打造更多实用项目
 
-- 🌱 贡献更多好用的开源项目
+- 🌱 持续贡献更多好用的开源项目
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=diamond-cz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="diamond-cz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diamond-cz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
